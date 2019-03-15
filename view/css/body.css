@@ -1,0 +1,9 @@
+.fa-globe-americas{
+    color: red;
+    transition: all ease .3s;
+    margin-left: 25px;
+    cursor: pointer;
+}
+.fa-globe-americas:hover{
+    color:rgb(46, 31, 156);
+}
